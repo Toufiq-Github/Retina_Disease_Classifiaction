@@ -1,4 +1,3 @@
-# Retina_Disease_Classifiaction
 # Retinal Disease Detection using a Hybrid Deep Learning Model with Explainable AI (XAI)
 
 ## 🧠 Overview
